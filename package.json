@@ -1,0 +1,13 @@
+{
+  "name": "vue-material-quick-start",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "material"
+  ],
+  "dependencies": {
+    "vue-material": "latest",
+    "vue": "latest"
+  },
+  "description": "Starter for material with Vue.js"
+}
